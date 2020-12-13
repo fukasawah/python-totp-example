@@ -27,6 +27,10 @@ python qrcode-generate.py B3DQULIS7BASNVU2ZLYTZGU4NU7YNVF5
 
 see: [qrcode.png](qrcode.png)
 
+This QR code can be read by the following apps.
+
+- Google Authenticator
+- Microsoft Authenticator
 
 ### 3. Check TOTP code
 
